@@ -1,3 +1,3 @@
 # Atividade 1
 
-![Imagem do Rick](https://pin.it/5aeJnFR74)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
